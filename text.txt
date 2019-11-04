@@ -1,1 +1,5 @@
+<<
 HEj hej hee:wqj
+=======
+HEj hej hej hej hej
+>>>>>>> origin/master
